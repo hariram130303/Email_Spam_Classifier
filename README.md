@@ -41,9 +41,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## Deployment
 
-Deploy on platforms like:
-
-**Streamlit URL** (https://streamlit.io/cloud)
+**Streamlit URL** (https://emailspamclassifier1.streamlit.app/)
 
 
 ## Dataset
